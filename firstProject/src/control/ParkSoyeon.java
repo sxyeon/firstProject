@@ -6,7 +6,7 @@ public class ParkSoyeon {
 		
 		//if for(while) break, continue
 		
-		int a = 2;
+		int a = 1;
 		
 		do {
 			a++;
